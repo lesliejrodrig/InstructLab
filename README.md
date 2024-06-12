@@ -1,75 +1,75 @@
-# Logista Facts
-Logista, called Compañía de Distribución Integral Logista Holdings SA, or Logista Group, operates through its subsidiaries as a distributor of products and services to local businesses in Europe. The group, heir to the former Spanish Tabacalera, later Altadis, distributes tobacco, pharmaceutical products, books and periodicals, as well as electronic transactions, among others. Logista also provides long-distance and full load transportation services, temperature-controlled transportation services, industrial parcel delivery and express courier services.
+# Datos de Logista
+Logista, denominada Compañía de Distribución Integral Logista Holdings SA, o Grupo Logista, opera a través de sus filiales como distribuidor de productos y servicios a empresas locales en Europa. El grupo, heredero de la antigua Tabacalera española, más tarde Altadis, distribuye tabaco, productos farmacéuticos, libros y publicaciones periódicas, además de transacciones electrónicas, entre otros. Logista también ofrece servicios de transporte de larga distancia y carga completa, servicios de transporte a temperatura controlada, paquetería industrial y servicios de mensajería urgente.
 
-With approximately 300,000 delivery points in Spain, France, Italy, Portugal and Poland, as well as around 45,000 point-of-sale terminals, it is one of the most important distribution companies in Europe. It is part of the IBEX 35 index.
-History
-Logista's origins date back to the distribution division of Tabacalera (then Altadis), from which it was spun off in 1999. Logista began its activity by distributing tobacco products to the network of tobacconists in Spain.
+Con aproximadamente 300.000 puntos de entrega en España, Francia, Italia, Portugal y Polonia, así como alrededor de 45.000 terminales punto de venta, es una de las empresas de distribución más importantes de Europa. Forma parte del índice IBEX 35.
+Historia
+Los orígenes de Logista se remontan a la división de distribución de Tabacalera (entonces Altadis), de la que se escindió en 1999. Logista inició su actividad distribuyendo productos del tabaco a la red de estancos de España.
 
-In 1999, after the merger of Logista and Midesa (Marco Ibérica Distribución de Ediciones S.A.), Logista incorporated the distribution of books and publications in Spain and Portugal.
-In 2008 Imperial Brands acquired Grupo Logista, maintaining independent management of the company.
+En 1999, tras la fusión de Logista y Midesa (Marco Ibérica Distribución de Ediciones S.A.), Logista incorpora la distribución de libros y publicaciones en España y Portugal.
+En 2008 Imperial Brands adquirió Grupo Logista, manteniendo la gestión independiente de la compañía.
 
-In 2014, Compañía de Distribución Integral Logista Holdings, SAU (Grupo Logista) was created, parent company of Compañía Operadora de Compañía de Distribución Integral Logista SAU (former parent company of the Group). Logista began trading on the Madrid Stock Exchange on July 14, 2014, at a price of €13 per share and is part of the IBEX 35.
-Group companies
+En 2014 se crea Compañía de Distribución Integral Logista Holdings, SAU (Grupo Logista), sociedad matriz de Compañía Operadora de Compañía de Distribución Integral Logista SAU (antigua matriz del Grupo). Logista comenzó a cotizar en la Bolsa de Madrid el 14 de julio de 2014 a un precio de 13 euros por acción y forma parte del IBEX 35.
+Empresas del grupo
 
-The company operates in Europe through numerous brands, the majority of which are 100% owned by the group: Logista, Integra2, Logesta, Logistadis, MidSid, Nacex, Supergroup and Terzia, among others.
+La compañía opera en Europa a través de numerosas marcas, la mayoría de las cuales son 100% propiedad del grupo: Logista, Integra2, Logesta, Logistadis, MidSid, Nacex, Supergroup y Terzia, entre otras.
 
-Logista's European infrastructure network comprises around 400 warehouses, including 42 central/regional warehouses and 363 service points, exceeding one million m 2 of storage.
+La red europea de infraestructuras de Logista comprende alrededor de 400 almacenes, incluidos 42 almacenes centrales/regionales y 363 puntos de servicio, superando el millón de m 2 de almacenamiento.
 
-In 2022 it acquired 60% of the Murcian logistics company Transportes el Mosca.
+En 2022 adquirió el 60% de la empresa logística murciana Transportes el Mosca.
 
-# Covid pandemic
-Since March 2020, the company's revenues have been damaged by the paralysis of the international coronavirus pandemic. Two years later, between October 2021 and June 2022, the first nine months of its fiscal year, it earned 143 million euros, 4.3% more than a year before. The logistics group increased turnover by 6.7% and distributed €0.43 per share in July 2022.
-Presentation
-Logista facilitates the best and fastest access of products and services to the market, distributing them from manufacturers to the final consumer through a capillary network of points of sale.
-Thus, Logista becomes the best partner for manufacturers and points of sale.
-We distribute convenience products, electronic recharges, tobacco, pharmaceuticals, books, publications and lotteries, among others, to approximately 200,000 points of sale in Spain, France, Italy and Portugal.
-We also distribute products to wholesalers in Poland and lead the express delivery service with origin and/or destination in Benelux.
-Since its creation, Logista has combined an organic growth strategy through the constant expansion of the product and service offering and diversification into new sectors of specialization, with inorganic growth through profitable acquisitions.
-• Creation of Logistadis, specialized in the distribution of convenience products.
-• Incorporation of Transport Services, with the acquisition of Nacex (express parcel and documentation courier) and Integra 2 (capillary transport at controlled temperature), as well as with the creation of Logesta (specialized in the management of long-distance transport and cargo complete).
-• Creation of Logista Pharma, a subsidiary of the Group specialized in distribution for the pharmaceutical sector, which offers full control of temperature, product status and total traceability
+# Pandemia de COVID-19
+Desde marzo de 2020, los ingresos de la empresa se han visto perjudicados por la paralización de la pandemia internacional de coronavirus. Dos años después, entre octubre de 2021 y junio de 2022, los nueve primeros meses de su ejercicio fiscal, ganó 143 millones de euros, un 4,3% más que un año antes. El grupo logístico incrementó su facturación un 6,7% y repartió 0,43 euros por acción en julio de 2022.
+Presentación
+Logista facilita el mejor y más rápido acceso de productos y servicios al mercado, distribuyéndolos desde los fabricantes hasta el consumidor final a través de una red capilar de puntos de venta.
+Logista se convierte así en el mejor socio para fabricantes y puntos de venta.
+Distribuimos productos de conveniencia, recargas electrónicas, tabaco, productos farmacéuticos, libros, publicaciones y loterías, entre otros, a aproximadamente 200.000 puntos de venta en España, Francia, Italia y Portugal.
+También distribuimos productos a mayoristas en Polonia y lideramos el servicio de entrega urgente con origen y/o destino en Benelux.
+Desde su creación, Logista ha combinado una estrategia de crecimiento orgánico a través de la constante ampliación de la oferta de productos y servicios y la diversificación hacia nuevos sectores de especialización, con un crecimiento inorgánico a través de adquisiciones rentables.
+• Creación de Logistadis, especializada en la distribución de productos de conveniencia.
+• Incorporación de Servicios de Transporte, con la adquisición de Nacex (mensajería urgente de paquetería y documentación) e Integra 2 (transporte capilar a temperatura controlada), así como con la creación de Logesta (especializada en la gestión de transporte de larga distancia y carga completa). ).
+• Creación de Logista Pharma, filial del Grupo especializada en distribución para el sector farmacéutico, que ofrece control total de temperatura, estado del producto y trazabilidad total
 
-In 2004, Logista embarked on a strong international expansion through the acquisition of Etinera and the creation of Logista Italia, becoming the leader in the distribution of tobacco and convenience products in southern Europe.
+En 2004, Logista emprendió una fuerte expansión internacional a través de la adquisición de Etinera y la creación de Logista Italia, convirtiéndose en el líder en la distribución de tabaco y productos de conveniencia en el sur de Europa.
 
-In 2007, Logista gave a new international boost by extending its operations to Poland, with the creation of Logista Polska.
-In 2008, Imperial Brands acquired Logista, which maintained its independent management and also began to manage Imperial Brands' logistics operations in France to finally, in October 2012, acquire 100% of said business and create Logista France (previously called ADF Group). ).
-In 2014, the Comprehensive Distribution Company Logista Holdings, S.A.U. was created. (Grupo Logista), parent company of the operating company Compañía de Distribución Integral Logista S.A.U (previous parent company of the Group), which began trading on the Spanish stock markets on July 14, 2014, with a market capitalization of 1,726 million euros .
-In 2015, Logista joined the IBEX Medium Cap index, with the largest companies by capitalization, adjusted for free float, after those included in the IBEX. And in 2018 it becomes part of the IBEX Top Dividend index, with the 25 securities with the highest dividend yield among those included in IBEX 35, IBEX Medium Cap or IBEX Small Cap, as long as they have a history of paying ordinary dividends of at least least 2 years. Logista is also part of the FTS4Good index, which incorporates companies that demonstrate solid practices in corporate, environmental and social governance.
-Since 2016, CDP has been recognizing Logista as one of the world leaders in the fight against climate change, including the company in its “A-List” and, in 2018, as “CDP Supplier Leader 2018” for its performance in the “CDP's Supply Chain Program”.
-Today Logista is the undisputed leader in the distribution of products and services to local businesses in Europe.
-It distributes convenience products, electronic recharges, tobacco, pharmaceuticals, books, publications and lotteries, among others, to approximately 200,000 points of sale in Spain, France, Italy, Portugal, Poland and Benelux. 
-Logista continues to strengthen its already consolidated businesses, while expanding its business base, reinforcing its growth areas and increasing its relationship and services provided to manufacturers and points of sale throughout Europe.
+En 2007, Logista dio un nuevo impulso internacional extendiendo sus operaciones a Polonia, con la creación de Logista Polska.
+En 2008, Imperial Brands adquirió Logista, que mantuvo su gestión independiente y pasó también a gestionar las operaciones logísticas de Imperial Brands en Francia para finalmente, en octubre de 2012, adquirir el 100% de dicho negocio y crear Logista France (anteriormente llamado ADF Group). ).
+En 2014, la Sociedad de Distribución Integral Logista Holdings, S.A.U. fue creado. (Grupo Logista), matriz de la sociedad operativa Compañía de Distribución Integral Logista S.A.U (anterior matriz del Grupo), que comenzó a cotizar en las Bolsas españolas el 14 de julio de 2014, con una capitalización bursátil de 1.726 millones de euros.
+Logista se incorporó en 2015 al índice IBEX Medium Cap, siendo las empresas de mayor capitalización ajustada por free float, tras las incluidas en el IBEX. Y en 2018 pasa a formar parte del índice IBEX Top Dividend, con los 25 valores con mayor rentabilidad por dividendo entre los incluidos en el IBEX 35, IBEX Medium Cap o IBEX Small Cap, siempre que tengan un historial de pago de dividendos ordinarios de al menos mínimo mínimo 2 años. Logista también forma parte del índice FTS4Good, que incorpora empresas que demuestran prácticas sólidas en gobierno corporativo, ambiental y social.
+Desde 2016, CDP reconoce a Logista como uno de los líderes mundiales en la lucha contra el cambio climático, incluyéndola en su “A-List” y, en 2018, como “CDP Supplier Leader 2018” por su desempeño en los “CDP's Programa de Cadena de Suministro”.
+Hoy Logista es líder indiscutible en la distribución de productos y servicios a comercios locales en Europa.
+Distribuye productos de conveniencia, recargas electrónicas, tabaco, productos farmacéuticos, libros, publicaciones y loterías, entre otros, a aproximadamente 200.000 puntos de venta en España, Francia, Italia, Portugal, Polonia y Benelux. 
+Logista continúa fortaleciendo sus negocios ya consolidados, al tiempo que amplía su base de negocio, reforzando sus áreas de crecimiento e incrementando su relación y servicios prestados a fabricantes y puntos de venta en toda Europa.
 
 
-We facilitate the route of products to the consumer through a single supplier in a transparent and efficient way, ensuring full control throughout the chain.
+Facilitamos el recorrido de los productos hasta el consumidor a través de un único proveedor de forma transparente y eficiente, asegurando un control total en toda la cadena.
 
-We make available to our clients the most advanced and specialized services for each sector and point of sale channel in which it operates.
+Ponemos a disposición de nuestros clientes los servicios más avanzados y especializados para cada sector y canal punto de venta en el que opera.
 
-Manufacturers and points of sale thus have specialized distribution according to the product, the commercial establishment and their end customer, along with other value-added services and powerful “Business Intelligence” tools.
+Los fabricantes y puntos de venta disponen así de una distribución especializada según el producto, el establecimiento comercial y su cliente final, junto con otros servicios de valor añadido y potentes herramientas de “Business Intelligence”.
 
-Our vertical and integrated model of distribution infrastructure, transportation and information systems guarantees efficiency in operations, ensures full control and real-time traceability in specialized distribution, while offering proximity to the point of sale through hundreds of service points in the countries in which we operate.
-Logista has a broad presence in Spain, France, Italy and Portugal, serving nearly 200,000 points of sale. In addition, Logista also distributes to wholesalers in Poland and offers express courier services in Benelux.
-We combine the use of central warehouses, concentrating volumes and automating processes, with a local presence close to the point of sale through service points that offer points of sale an additional way to access Logista products and services.
-# Spain
-Logista is the leading distributor to local businesses in Spain, serving around 150,000 points of sale.
-We distribute convenience products, electronic recharges, tobacco, pharmaceuticals, books, publications and lotteries, among others, to different points of sale in retail networks such as convenience stores, tobacconists, pharmacies, bookstores, kiosks and service stations.
-In addition, we are among the leaders in the transportation area thanks to our express courier networks for parcels and documentation (Nacex) and temperature-controlled capillary transportation (Logista Parcel), and Logista Freight, specialized in long-haul transportation management and Full load.
-# France
-Logista France distributes to around 40,000 points of sale, being the leading distributor to local businesses in France.
-Logista France is the leader in the distribution of tobacco products and electronic refills to the more than 24,000 tobacco shops in France, to which its subsidiary SAF offers a wide portfolio of convenience, tobacco-related, consumer, food, drinks, gifts, stationery, electronic cigarettes and electronic refills, among others.
-Logista is also present in France in the transport sector, through its company Logista Freight, specialized in long-haul and full load transport management.
-# Italy
-Logista Italia is the leading distributor of tobacco and convenience products to some 55,000 tobacconists and convenience stores in Italy.
-Logista Italia offers tobacco products to tobacconists and, through its company Logista Retail, the new division of Logista with the best and widest portfolio of products related to tobacco, food, stationery and convenience, along with distribution services most extensive and efficient on the Italian market.
-In addition, Logista Freight Italia offers specialized long-haul and full load transportation services in Italy.
-# Portugal
-Logista Portugal is the leading distributor of tobacco products and convenience products in Portugal.
-We distribute tobacco, convenience and pharmaceutical products, among others, to approximately 15,000 points of sale in retail network channels such as convenience stores, gas stations and pharmacies.
-In addition, Logista also has a leading position in the transportation area thanks to its firms Nacex and Logista Parcel, express courier networks for parcels and documentation and temperature-controlled capillary transportation, respectively, and Logista Freight, specialized in transportation management. long haul and full load.
-# Poland
-Logista Polska offers tobacco manufacturers in Poland storage, order preparation and transportation services to wholesalers with national coverage.
-Logista Polksa's facilities for providing its services are among the most modern and technologically advanced in the country, in line with Logista's standards for all its businesses.
-# Benelux
-Logista, through the acquisition of 70% of the Dutch company Speedlink Worldwide Express, specialist in express deliveries to and from Belgium and the Netherlands, allows the international expansion of Nacex services to the Benelux.
-Speedlink has developed a unique business model, based on an asset-light structure, and specialized in time-critical transportation services for the healthcare, high-tech, automotive and e-commerce sectors.
-At the same time, it reinforces Logista's position in medical-health distribution and expands its portfolio of services outside the Iberian Peninsula.
+Nuestro modelo vertical e integrado de infraestructura de distribución, transporte y sistemas de información garantiza eficiencia en las operaciones, asegura control total y trazabilidad en tiempo real en la distribución especializada, al tiempo que ofrece cercanía al punto de venta a través de cientos de puntos de servicio en los países en los que operamos. .
+Logista tiene una amplia presencia en España, Francia, Italia y Portugal, atendiendo a cerca de 200.000 puntos de venta. Además, Logista también distribuye a mayoristas en Polonia y ofrece servicios de mensajería urgente en Benelux.
+Combinamos el uso de almacenes centrales, concentrando volúmenes y automatizando procesos, con una presencia local cercana al punto de venta a través de puntos de servicio que ofrecen al punto de venta una vía adicional de acceso a los productos y servicios de Logista.
+# España
+Logista es el distribuidor líder a empresas locales en España, dando servicio a alrededor de 150.000 puntos de venta.
+Distribuimos productos de conveniencia, recargas electrónicas, tabaco, productos farmacéuticos, libros, publicaciones y loterías, entre otros, a diferentes puntos de venta en redes minoristas como tiendas de conveniencia, estancos, farmacias, librerías, kioscos y estaciones de servicio.
+Además, estamos entre los líderes en el área de transporte gracias a nuestras redes de mensajería urgente de paquetería y documentación (Nacex) y transporte capilar a temperatura controlada (Logista Parcel), y Logista Freight, especializada en la gestión del transporte de largo recorrido y carga completa. .
+# Francia
+Logista France distribuye a alrededor de 40.000 puntos de venta, siendo el principal distribuidor a comercios locales en Francia.
+Logista France es líder en la distribución de productos del tabaco y recargas electrónicas a los más de 24.000 estancos de Francia, a los que su filial SAF ofrece una amplia cartera de productos de conveniencia, relacionados con el tabaco, consumo, alimentación, bebidas, regalo, papelería, cigarrillos electrónicos y recargas electrónicas, entre otros.
+Logista también está presente en Francia en el sector del transporte, a través de su empresa Logista Freight, especializada en la gestión del transporte de largo recorrido y carga completa.
+# Italia
+Logista Italia es el principal distribuidor de tabaco y productos de conveniencia para unos 55.000 estancos y tiendas de conveniencia en Italia.
+Logista Italia ofrece productos del tabaco a los estancos y, a través de su empresa Logista Retail, la nueva división de Logista con la mejor y más amplia cartera de productos relacionados con el tabaco, la alimentación, la papelería y la conveniencia, junto con los servicios de distribución más amplios y eficientes del mercado italiano. .
+Además, Logista Freight Italia ofrece servicios especializados de transporte de largo recorrido y carga completa en Italia.
+#Portugal
+Logista Portugal es el principal distribuidor de productos del tabaco y productos de conveniencia en Portugal.
+Distribuimos tabaco, productos de conveniencia y farmacéuticos, entre otros, a aproximadamente 15.000 puntos de venta en canales de la red minorista como tiendas de conveniencia, gasolineras y farmacias.
+Además, Logista también cuenta con una posición de liderazgo en el ámbito del transporte gracias a sus firmas Nacex y Logista Parcel, redes de mensajería urgente de paquetería y documentación y transporte capilar a temperatura controlada, respectivamente, y Logista Freight, especializada en la gestión del transporte. Largo recorrido y carga completa.
+# Polonia
+Logista Polska ofrece a los fabricantes de tabaco en Polonia servicios de almacenamiento, preparación de pedidos y transporte a mayoristas con cobertura nacional.
+Las instalaciones de Logista Polksa para la prestación de sus servicios se encuentran entre las más modernas y tecnológicamente avanzadas del país, en línea con los estándares de Logista para todos sus negocios.
+#Benelux
+Logista, a través de la adquisición del 70% de la compañía holandesa Speedlink Worldwide Express, especialista en envíos urgentes desde y hacia Bélgica y Países Bajos, permite la expansión internacional de los servicios de Nacex al Benelux.
+Speedlink ha desarrollado un modelo de negocio único, basado en una estructura de activos ligeros, y especializado en servicios de transporte en los que el tiempo es crítico para los sectores de salud, alta tecnología, automoción y comercio electrónico.
+Al mismo tiempo, refuerza la posición de Logista en la distribución médico-sanitaria y amplía su cartera de servicios fuera de la Península Ibérica.
