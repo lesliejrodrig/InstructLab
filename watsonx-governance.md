@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Key Features of Watsonx.governance](#key-features)
+2. [Key Features of Watsonx.governance](#key-features-of-watsonxgovernance)
 3. [Watsonx.governance Components](#watsonxgovernance-components)
 4. [Generative AI Quality Assurance Metrics](#generative-ai-quality-assurance-metrics)
 5. [Performance and Cost Metrics](#performance-and-cost-metrics)
