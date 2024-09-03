@@ -102,7 +102,7 @@ To optimize AI performance and ensure cost efficiency, the platform monitors:
 
 ## AI Factsheets
 
-AI Factsheets serve as a starting point for AI model governance. They provide:
+The AI Factsheets component of watsonx.governance serve as a starting point for AI model governance. They provide:
 
 - Standardized documentation of essential information about AI models and services.
 - Customizable format based on applicable regulations and key reporting dimensions.
@@ -120,7 +120,7 @@ The watsonx.governance platform offers robust monitoring and alerting capabiliti
 
 ## Compliance and Regulations
 
-The platform helps organizations adhere to various AI regulations and ethical guidelines, including:
+The watsonx.governance platform helps organizations adhere to various AI regulations and ethical guidelines, including:
 
 - **EU AI Act**: Ensures adherence to the upcoming EU AI Act, which includes stringent requirements and potential fines for non-compliance.
 - **GDPR Compliance**: Helps organizations comply with GDPR regulations related to data privacy and protection.
