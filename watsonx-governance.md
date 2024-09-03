@@ -1,4 +1,4 @@
-# AI Governance Platform
+# Watsonx.governance AI Governance Platform
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -13,12 +13,12 @@
 
 ## Introduction
 
-This AI Governance Platform is designed to accelerate responsible, transparent, and explainable AI workflows. It provides a unified, integrated solution to govern both generative AI and predictive machine learning (ML) models across their entire lifecycle. Governance makes AI practical at the enterprise level. As reported by the Harvard Business Review, “to call generative AI revolutionary is not hyperbole. It has the potential to improve productivity in any function that involves cognitive tasks.” While the promise of AI is undeniable, the risks are real. A well-considered approach to governance gives everyone permission to move ahead. With governance as your safety net, there’s no reason to hold back from the revolutionary aspects of AI.
+Watsonx.governance, the AI Governance Platform, is designed to accelerate responsible, transparent, and explainable AI workflows. Watsonx.governance provides a unified, integrated solution to govern both generative AI and predictive machine learning (ML) models across their entire lifecycle. Governance makes AI practical at the enterprise level. As reported by the Harvard Business Review, “to call generative AI revolutionary is not hyperbole. It has the potential to improve productivity in any function that involves cognitive tasks.” While the promise of AI is undeniable, the risks are real. A well-considered approach to governance gives everyone permission to move ahead. With governance as your safety net, there’s no reason to hold back from the revolutionary aspects of AI.
 
 Governance makes AI practical at the enterprise level. As reported, “to call generative AI revolutionary is not hyperbole. It has the potential to improve productivity in any function that involves cognitive tasks.” While the promise of AI is undeniable, the risks are real. A well-considered approach to governance gives everyone permission to move ahead. With governance as your safety net, there’s no reason to hold back from the revolutionary aspects of AI.
 
 
-## Key Features
+## Key Features of Watsonx.governance
 
 - **Regulatory Compliance**: Manage AI to meet upcoming safety and transparency regulations worldwide.
 - **Risk Management**: Proactively detect and mitigate risks, monitoring for fairness, bias, drift, and new LLM metrics.
@@ -47,13 +47,13 @@ The influence of AI is growing exponentially as organizational leaders deploy th
     - Business leaders see ethical issues like explainability, ethics, bias, and trust as major concerns in AI adoption.
 
 
-## AI Governance Components
+## Watsonx.governance Components
 
-The platform consists of three main components:
+The watsonx.governance platform consists of three main components:
 
-1. **AI Documentation**: Capture facts about use cases, models, and prompts throughout the lifecycle.
-2. **AI Evaluation & Monitoring**: Monitor model health, accuracy, drift, bias, explainability, and generative AI quality.
-3. **AI Risk Governance**: Maintain use case & AI asset inventory, workflows, risk assessments, dashboards, and issue management.
+1. **AI Factsheets**: Tracking of AI models from request to productio. Capture facts about use cases, models, and prompts throughout the lifecycle.
+2. **OpenScale**: Monitoring of AI models and applications. Monitor model health, accuracy, drift, bias, explainability, and generative AI quality.
+3. **OpenPages**: AI-driven, highly scalable governance, risk and compliance (GRC) solution. Maintain use case & AI asset inventory, workflows, risk assessments, dashboards, and issue management.
 
 ### AI Use Case Management
 
@@ -79,7 +79,7 @@ Implementing AI governance requires the intersection of people, process, and tec
 
 ## Generative AI Quality Assurance Metrics
 
-The platform offers several out-of-the-box metrics for monitoring generative AI quality:
+The watsonx.governance platform offers several out-of-the-box metrics for monitoring generative AI quality:
 
 - **ROUGE**: Assesses how well a generated summary compares to reference summaries.
 - **SARI**: Compares predicted simplified sentences against reference and source sentences.
@@ -111,7 +111,7 @@ AI Factsheets serve as a starting point for AI model governance. They provide:
 
 ## Monitoring and Alerting
 
-The platform offers robust monitoring and alerting capabilities:
+The watsonx.governance platform offers robust monitoring and alerting capabilities:
 
 - **Real-Time Dashboards**: Provides on-demand dashboards and reports for real-time visibility into model performance.
 - **Automated Alerts**: Sends automated email notifications when predefined thresholds for key metrics are breached.
@@ -129,7 +129,7 @@ The platform helps organizations adhere to various AI regulations and ethical gu
 
 ## Business Impact and Value Proposition
 
-The AI Governance Platform offers value to various stakeholders:
+Watsonx.governance offers value to various stakeholders:
 
 - **C-Suite Executives**: Provides enterprise-wide views, repeatable processes, and clear ownership for AI initiatives.
 - **Risk and Compliance Officers**: Reduces the risk of regulatory fines and provides documented sources of model risk.
